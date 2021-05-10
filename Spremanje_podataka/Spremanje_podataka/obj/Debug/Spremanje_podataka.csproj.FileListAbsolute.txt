@@ -1,0 +1,13 @@
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\bin\Debug\Spremanje_podataka.exe.config
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\bin\Debug\Spremanje_podataka.exe
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\bin\Debug\Spremanje_podataka.pdb
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.Form1.resources
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.Form2.resources
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.Form3.resources
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.Form4.resources
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.Properties.Resources.resources
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.csproj.GenerateResource.cache
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.csproj.CoreCompileInputs.cache
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.exe
+C:\Users\Gordana\source\repos\Spremanje_podataka\Spremanje_podataka\obj\Debug\Spremanje_podataka.pdb
